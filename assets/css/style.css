@@ -51,7 +51,7 @@
   color: #777777;
 }
 
-#aboutme {
+.contentheader {
   padding-bottom: 15px;
   background: #ffffff;
   color: #4aaaa5;
@@ -74,4 +74,22 @@
 #content2 {
   float: left;
   width: 100%;
+}
+
+footer {
+  background: #666666;
+  padding: 5px;
+  bottom: 0px;
+  margin: 20px -10px 0;
+}
+
+.copyright {
+  font: white;
+}
+
+.banner {
+  position: relative;
+  padding: 5px 0px;
+  background: #4aaaa5;
+  font: #ffffff;
 }
