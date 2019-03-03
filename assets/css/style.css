@@ -11,7 +11,7 @@
 .fixedh1 {
   position: absolute;
   background: #4aaaa5;
-  left: 11%;
+  left: 9%;
   top: 3.2%;
   padding: 5px 10px;
   color: #ffffff;
@@ -19,7 +19,7 @@
 
 .about {
   position: absolute;
-  right: 30%;
+  right: 21%;
   top: 5%;
   padding-left: 10px;
   padding-right: 10px;
@@ -27,13 +27,13 @@
 
 .portfolio {
   position: absolute;
-  right: 23.5%;
+  right: 14.2%;
   top: 5%;
 }
 
 .contact {
   position: absolute;
-  right: 18.5%;
+  right: 9%;
   top: 5%;
 }
 
