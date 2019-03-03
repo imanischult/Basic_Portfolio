@@ -11,9 +11,9 @@
 .fixedh1 {
   position: absolute;
   background: #4aaaa5;
-  left: 20%;
-  top: 1%;
-  padding: 12px;
+  left: 11%;
+  top: 3.2%;
+  padding: 5px 10px;
   color: #ffffff;
 }
 
@@ -27,22 +27,51 @@
 
 .portfolio {
   position: absolute;
-  right: 270px;
-  bottom: 10px;
+  right: 23.5%;
+  top: 5%;
 }
 
 .contact {
   position: absolute;
-  right: 210px;
-  bottom: 10px;
+  right: 18.5%;
+  top: 5%;
 }
 
 .navbar {
   color: #777777;
 }
 
-.container {
-  z-index: 1;
+.wrapper {
+  width: 960px;
+  padding: 8px 30px 330px 30px;
+  margin: 0 auto;
   background: #ffffff;
+  margin-top: 6%;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+}
 
+#aboutme {
+  padding-bottom: 15px;
+  background: #ffffff;
+  color: #4aaaa5;
+  border-color: #777777;
+  border-bottom-width: 5px;
+  border-bottom-style: solid;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#selfimage {
+  float: left;
+  width: 20%;
+}
+
+#content1 {
+  float: left;
+  width: 75%;
+}
+
+#content2 {
+  float: left;
+  width: 100%;
 }
